@@ -56,42 +56,42 @@ This project delivers a fully dynamic **Car Sales Dashboard** built in Power BI 
 ### 1. YTD Sales Weekly Trend *(Line Chart)*
 Tracks weekly fluctuations in total sales across the year, allowing teams to spot seasonality and performance dips at a glance.
 
-![WeeklyTrend](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/YTD%20Sales%20Weekly.png?raw=true)
+![WeeklyTrend](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/YTD%20Sales%20Weekly.png?raw=true)
 
 ---
 
 ### 2. YTD Total Sales by Body Style *(Pie Chart)*
 Breaks down revenue contribution by vehicle body type — SUV, Sedan, Hatchback, and more — to reveal product mix insights.
 
-![YTDTotalSalesByBodyStyle](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/YTD%20Total%20Sales%20by%20body%20style.png?raw=true)
+![YTDTotalSalesByBodyStyle](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/YTD%20Total%20Sales%20by%20body%20style.png?raw=true)
 
 ---
 
 ### 3. YTD Total Sales by Color *(Pie Chart)*
 Highlights which vehicle colors drive the most revenue, supporting smarter inventory planning decisions.
 
-![YTDTotalSalesByColor](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/YTD%20Total%20Sales%20by%20color.png?raw=true)
+![YTDTotalSalesByColor](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/YTD%20Total%20Sales%20by%20color.png?raw=true)
 
 ---
 
 ### 4. YTD Cars Sold by Dealer Region *(Map Chart)*
 A geographic heatmap of unit sales by dealer region, helping regional managers benchmark performance across locations.
 
-![DealerRegion](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/MAP.png?raw=true)
+![DealerRegion](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/MAP.png?raw=true)
 
 ---
 
 ### 5. Company-Wise Sales Trend *(Grid Table)*
 A structured tabular view ranking each car company by their YTD sales figures — ideal for partner and brand-level reviews.
 
-![CompanySalesTrend](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/Company%20wise%20sales.png?raw=true)
+![CompanySalesTrend](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/Company%20wise%20sales.png?raw=true)
 
 ---
 
 ### 6. Full Sales Details Grid *(Detail Table)*
 A comprehensive record-level table covering all sale attributes: car model, body style, color, price, dealer region, date, and more.
 
-![DetailGrid](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/Details%20table.png?raw=true)
+![DetailGrid](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/Details%20table.png?raw=true)
 
 ---
 
@@ -109,8 +109,8 @@ Fields include: `Date`, `Month`, `Week`, `Year`
 
 ## Dashboard Preview
 
-![Dashboard Home 1](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/Dash1.png?raw=true)
-![Dashboard Home 2](https://github.com/nikhileshgautam-ai/Car_sale_analysis/blob/main/Screenshots/Dash2.png?raw=true)
+![Dashboard Home 1](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/Dash1.png?raw=true)
+![Dashboard Home 2](https://github.com/nikhileshgautam-ai/Car-sales-analysis/blob/main/Screenshots/Dash2.png?raw=true)
 
 ---
 
